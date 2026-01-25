@@ -1,0 +1,8 @@
+{
+  "name": "ProInvoice Dashboard",
+  "description": "A high-performance project management and invoicing dashboard with dark/light mode, featuring AI-powered project summarization and invoice generation using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
